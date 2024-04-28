@@ -38,13 +38,7 @@ Jadi, di linked list ini, ada 3 tempat parkir kosong, diikuti 2 tempat parkir ya
 
 ## Cara Mengerjakan
 
-Soal dan detil detil sudah di soalnya, jadi kalian bisa langsung mengerjakan, **Kerjakan sesuai urutan nomor**. Kalau ada teori delete aja seteleh mengerjakan
-
-```c
-/* 🚀🚀[Teori]🚀🚀
- * 
- */
-```
+Soal dan detil detil sudah di soalnya, jadi kalian bisa langsung mengerjakan, **Kerjakan sesuai urutan nomor** `A1 -> A2 -> B1 -> B2 -> ...`.
 
 Diharapkan jawab pertanyaan-pertanyaannya secara singkat saja
 
