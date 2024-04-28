@@ -45,4 +45,4 @@ Diharapkan jawab pertanyaan-pertanyaannya secara singkat saja
 <br />
 <br />
 
-# ⊂(◉‿◉)つ Good Luck (◉‿◉)
+# ⊂(◉‿◉)つ Good Luck Semuanya!! ^^ (◉‿◉)
