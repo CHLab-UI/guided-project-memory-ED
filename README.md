@@ -42,13 +42,6 @@ Soal dan detil detil sudah di soalnya, jadi kalian bisa langsung mengerjakan, **
 
 Diharapkan jawab pertanyaan-pertanyaannya secara singkat saja
 
-## Bacaan tambahan
-
-Tempat parkir ini sistemnya sama seperti memory management pada komputer kalian. Jadi di komputer kalian ada linked list untuk memanage memory dan menentukan apakah memory tertentu dipakai atau tidak.
-Nanti kalian akan belajar lebih lanjut di mata kuliah Sistem Operasi.
-
-Untuk memory management dan masalah parkiran ini, ada juga solusi lain selain pakai linked list, yaitu pakai bitmap. Jadi ada sebuah variabel yang berisi angka biner 0 dan 1, 0 berarti kosong, 1 berarti terisi. Dan setiap tempat parkirnya direpresentasi 1 bit. Kekurangannya adalah variabel ini biasa lebih besar dari linked list.
-
 <br />
 <br />
 

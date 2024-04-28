@@ -1,10 +1,12 @@
 #include <stdio.h>
 
 /** 🚀🚀[Teori]🚀🚀
- * sebuah node adalah setiap elemen dari linked list yang mengandung
- * data
+ * sebuah node adalah setiap elemen dari linked list yang mengandung data
  * dan pointer ke node berikutnya
  * Pembuatan node pada bahasa c dengan menggunakan struct
+ *
+ * [statusEmpty, panjang, next] -> [statusEmpty, panjang, next] -> [statusEmpty, panjang, next]
+ * satu [statusEmpty, panjang, next] merupakan 1 node,
  */
 
 /**
