@@ -2,10 +2,6 @@
 
 Pada **Mentoring ED** ini klean akan membuat project untuk belajar tentang pointer dan memory.
 
-Total terdapat 1 buah Soal. Soal udh di file c:
-
-- Soal 1, Kerjakan di `parkir.c`
-
 Kalian bisa ambil referensi dari <https://github.com/EdgrantHS/citsit-progdas-c>
 
 ## Cerita Singkat
