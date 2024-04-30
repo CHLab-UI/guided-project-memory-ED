@@ -52,13 +52,19 @@ int main(){
     * C4. Copy soal B4 tapi gunakan array of struct pointer yang telah kalian buat pada C3
     * 
     * Hint: gunakan arrow operator (->) untuk mengakses field dari struct pointer.
-    * Hint2: Program akan crash tanpa error. 
-    *          Hal ini disebabkan  tidak menggunakan malloc, nanti akan belajar di soal D
     * 
     */
 
    /** 🙂🙂[Instruksi]🙂🙂
     * C5. Copy soal B5 tapi gunakan array of struct pointer yang telah kalian buat pada C3
+    */
+
+   /** 🚩🚩[Pertanyaan]🚩🚩
+    * C6. Program akan berhenti tanpa print hasilnya.
+    *    Tetapi tidak ada error yang muncul saat compile.
+    *    Titik persis berhenti program adalah saat ingin mengakses field dari salah satu elemen array nodePtr
+    *          
+    * Hint: Hal ini disebabkan karena tidak menggunakan malloc, nanti akan belajar di soal D
     */
    return 0;
 }
