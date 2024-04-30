@@ -26,10 +26,18 @@ int main(){
     */
 
    /** 🚩🚩[Pertanyaan]🚩🚩
-    * C2. Apa perbedaan arrow operator (->) dengan dot operator (.) pada struct 
+    * C2. Apa perbedaan arrow operator (->) dengan dot operator (.) pada struct
     * dan bagaimana membuat keduanya melakukan hal yang sama?
     *
     * Jawaban anda:
+    *
+    * [
+    * [0x0008]  [0x0010]
+    * [0x0018]  [0x0020]
+    * [0x0018]  [0x0020]
+    * ]
+    *
+    *
     */
 
    /** 🙂🙂[Instruksi]🙂🙂
@@ -43,7 +51,10 @@ int main(){
    /** 🙂🙂[Instruksi]🙂🙂
     * C4. Copy soal B4 tapi gunakan array of struct pointer yang telah kalian buat pada C3
     * 
-    * Hint: gunakan arrow operator (->) untuk mengakses field dari struct pointer
+    * Hint: gunakan arrow operator (->) untuk mengakses field dari struct pointer.
+    * Hint2: Program akan crash tanpa error. 
+    *          Hal ini disebabkan  tidak menggunakan malloc, nanti akan belajar di soal D
+    * 
     */
 
    /** 🙂🙂[Instruksi]🙂🙂
